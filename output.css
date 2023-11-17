@@ -568,6 +568,18 @@ video {
   }
 }
 
+.fixed {
+  position: fixed;
+}
+
+.bottom-3 {
+  bottom: 0.75rem;
+}
+
+.right-3 {
+  right: 0.75rem;
+}
+
 .order-1 {
   order: 1;
 }
@@ -599,6 +611,10 @@ video {
 
 .grid {
   display: grid;
+}
+
+.hidden {
+  display: none;
 }
 
 .min-h-screen {

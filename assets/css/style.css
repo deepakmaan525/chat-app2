@@ -47,6 +47,10 @@
     transition: 0.4s;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 @media (min-width: 1024px) {
     .menu {
         display: none;
